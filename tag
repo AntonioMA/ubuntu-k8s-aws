@@ -1,0 +1,1 @@
+antonioma/ubuntu-aws:latest
