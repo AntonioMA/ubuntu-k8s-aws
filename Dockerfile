@@ -15,5 +15,7 @@ RUN apt-get install -y jq
 # postgresql client
 RUN apt-get install -y postgresql-client
 
+RUN apt-get install -y groff
+
 
 
